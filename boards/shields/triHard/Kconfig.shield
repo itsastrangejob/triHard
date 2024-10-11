@@ -3,3 +3,5 @@
 
 config SHIELD_TRIHARD
    def_bool $(shields_list_contains,trihard)
+
+CONFIG_ZMK_SLEEP=y
