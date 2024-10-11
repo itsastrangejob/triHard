@@ -5,10 +5,10 @@
 # pass flags to the build command and `artifact-name` to assign a name to
 # distinguish build outputs from each other:
 #
-# board: [ "seeed_xiao" ]
+# board: [ "seeeduino_xiao_ble" ]
 # shield: [ "triHard" ]
 # include:
-#   - board: seeed_xiao
+#   - board: seeeduino_xiao_ble
 #     shield: triHard
 #     cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
 #     artifact-name: corne_left_with_logging

@@ -15,7 +15,7 @@
         default_layer {
             bindings = <
                 &kp F13
-                &bt BLE_CLR
+                &bt BT_CLR
 				&kp PG_DN
             >;
         };
