@@ -1,0 +1,8 @@
+file_format: "1"
+id: triHard
+name: triHard
+type: shield
+url: https://github.com/itsastrangejob/triHard
+requires: [seeed_xiao]
+features:
+  - keys
